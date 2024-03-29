@@ -12,9 +12,8 @@ https://mediacpstreamchile.com:1936/8028/8028/playlist.m3u8?TecnoPlaylist
 #EXTINF:0,A&E
 #EXTGRP:unsorted
 http://138.59.177.34:8000/play/a052/index.m3u8
-#EXTINF:0,AXN
-#EXTGRP:unsorted
-http://138.59.177.34:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
+http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
 #EXTINF:0,AMC HD
 #EXTGRP:unsorted
 http://138.59.177.34:8000/play/a033/index.m3u8
@@ -252,10 +251,3 @@ https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="LATINO",Senal Colombia 
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-Yjh_ilRvT_U/WotiP1lfPgI/AAAAAAAAAaE/gLYRir8x6YArwLDIlkLX0mQTOHlRf9BzwCLcBGAs/s1600/hbo.png" group-title="LATINO",HBO
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/Cq8FPPmT4UcZ4GJ2KbOrdHVvjCmEhlDnr1aqNsEfLWRVnPhob2ezA0gZIg14aRLH-LT25KXDD3GsHeJmPizlg4ygvzc5BhQwvHnJL437p7JVFnjScypTwXxwfZmT7CV4pv_wWHtzFUpGfxBTzeuYbIuxLVqgoryjteI4qHsHG23RmWe0hjHERAJCw8KsfMsSShQArCCPVMNS5-c1BHUPDQHkeStDlZbphhYeC7bANns9KscOOoIjlLfgwSPBed0vUdIxoJ63S9LZ9ZqRx4192wtDzqFyCp_YFIZ-ZTQETGzmajdbZZjsX-OHTEGnhF08N0CaQalcJAKZmfsLAOfk8FHyZcJXajP0KYZ9B9_hpalHwtzVoNSqUORS_C3aM7atfV3ku1Vs1Mn-IRnJUx1RXe6lMXj6pEvZYTayd8YndxwxQsDM7sk_7gFOqVsW8njL1TXBAq2FyXcTE6TuIsq-78d-qlS8xJq6IXdE8XSLbZKLYklL07nVNz0jXFDRDhRKsoxG5iLGqXkU_PUr5eLaqkYdZErog7nS4C4QCo5Rw5jX5lF9Q9Yj7CWgmOzpeBwoVcBarQ9hcBR4TgChr9iEAFGlyi7zRJvnqZ3h8J-pWP0_AelCqvck4nJOEH1veFhrzi4m07xKjK49SdoJFsqFxXi49lL6i48sFsxkqP-zPzAUfGt6tm5B48k1tpZIiQ0TIST4uU7Qeomm2C6vChhPFyalmAFV3Ttbm6u74bNrFk6F5SRzk6ZvLxuJKji_ipr8rfY-Omuq8Cr3q6ZIiJDZzLlq8w4jya0Hi7VDlfx2kzK7t99frWUCNt3onbMc8C1In1YDy9ZMz9MisZCHvc05xiNC-7QJ2_bC3exPRKmEGVQWwLXZj0_8JqlpD9bSBRhPDaDL0zUyfkYmwqUsPxNd5gWrGgxkk18GZxkFJJa8rtcgASoJdXMtZWFzdC0xMLYH.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-yE2jJ7IxE4M/Woth2XSZilI/AAAAAAAAAZU/iMmNkbfVY2MLrOZ0VTZRNoesboqnP4kCwCLcBGAs/s1600/cinemax.png" group-title="LATINO",CINEMAX
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/Cq8FGsK-hK1TYG8_IbqCVGANfpNb3OCMQZKRsDJG1RPRLQKlocucORI6iT46mROdRTPlC-spT3BeBRXRwigaQ3wZpCXSd8HnOBorsKKxk8PzECL-EjvmvHqGYzAYlZqPaOoYApIVsC8iES_vAmcvqUOiOVBwLCDW436fLsEhxZS_2e4St0hDeutXpQb5LG_yOim61w2XGCwdFqs0ykJZENGnTdEDt3-GUv2NCRI_ophlcDtsJnv9SqVJjo5Ok4djQHgzoHRnv_etgcLeXcXItR9HE4vKdy7cEoRxyXKh7HR6m2CE_XdEguHJsmAXD-8-uJyLhh5hvwoS1CMlzA34RgFcJ5e7BiyYLZbRUBoBbhqo20Sj-UVcnbKHH0NDhu20APTdIwX6Pm97NQps7UbLXpSghJLKIcKuf5y8da-MMb7ky8wmTRMnD3bioTYYV4vVl_68FJb1DfwRNnNCOej8rtAgXET-a1SRJ-bmDgiQHiHO-Q3f8WEDcy431AQN-6EQxl_ntyTdzNwlOtTlhB0YIZ_9H4zOIsMBz7RWu9qVv8IBWLmQGupM0FlDj7WqKFAn5jg6_kOMRGLrQidI-olT0W0z1F5eifiTJiVTAnBpjcX5ZZ0sH5fhHWFVGh_7-gbniy6cCePoRDt89E0BHOB6QPpX843QaOMVCW877uoaEp9rhi9WgeaMieZI6QpYSj06010GgQHSkRp3CchqO1wwyO22fs2FxsnMTHrpPOLNTfdbovgmYwuqx0EhdZlki9wy-sguR6VzSlc_HbfV8mOSMG_k46A1WjEPMtic-OpM99jsZh8rnX_IYUx_FFJ_V0eHV2Tlct_0Ot6XlWlOsZFpHcJtkOk2weOUDuw4cvi8P5Uux3EODBYFIezLTNifBg-3_EHwOgP5KnwlNnijVwMCNNSuGgzRQmBaqTnWqLL4EyEgASoJdXMtZWFzdC0xMLYH.m3u8
-
-
-
